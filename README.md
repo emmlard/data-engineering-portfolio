@@ -6,6 +6,4 @@ I'm excited to present my evolving data engineering portfolio. This repository s
 #
 ### [Postgres infrastructure with Docker](https://github.com/emmlard/data-engineering-portfolio-projects/postgres_docker_init)
 
-- Brief overview: In this assessment you’ll be tasked with simply creating a postgres server leveraging docker and docker compose and the goal will be to test your ability to successfully setup, load data and interact with postgres from python.
-- Technology used: *python, psycopg2*
-- Final results: 
+- Overview: This project sets up a basic PostgreSQL infrastructure using Docker and Docker Compose. It includes loading data from a CSV file and interacting with the database using Python. The primary goal is to demonstrate a straightforward method for setting up and managing a PostgreSQL database in a containerized environment.
