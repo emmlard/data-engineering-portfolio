@@ -47,3 +47,4 @@ if __name__ == "__main__":
         schema=config.schema,
         source_uri=gcs_uri,
     )
+
