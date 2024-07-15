@@ -73,7 +73,7 @@ Store processed data in BigQuery and Cloud Storage for analysis and visualizatio
 
 ### Tools
 - **Google BigQuery**: For structured data storage and analysis.
-- **Google Cloud Storage**: For temporary and staging location for Dataflow process
+- **Google Cloud Storage**: For temp and staging location for Dataflow process
 - **Google Data Studio**: For data visualization.
 
 ### Process
